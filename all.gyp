@@ -17,7 +17,7 @@
     }
   },
   'targets': [{
-    'target_name': 'webserver',
+    'target_name': 'binfile',
     'type': 'executable',
     'include_dirs': ['include'],
     'sources': [
