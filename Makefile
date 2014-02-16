@@ -16,7 +16,7 @@ ifeq ($(V),1)
 NINJA_OPTS=-v
 endif
 
-TARGET=webserver
+TARGET=binfile
 
 all: $(TARGET)
 
